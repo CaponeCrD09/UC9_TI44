@@ -7,8 +7,3 @@ git config --global user.email "felipesouzacrd09@gmail.com"
 
   git config --global user.name "CaponeCrD09"
 
-  oiii sou eu
-
-  teste
-
-  joao aqui
